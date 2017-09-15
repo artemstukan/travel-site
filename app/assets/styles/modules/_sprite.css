@@ -1,0 +1,71 @@
+/* Do not edit modules/_spirte directly as it is generated automatically by Gulp. Instead edit gulp/templates/sprite */
+
+	.icon {
+		background-image: url('/assets/images/sprites/sprite-5ce073ae.svg');
+	}
+
+	.icon--clear-view-escapes {
+		width: 142.4px;
+		height: 59.53px;
+		background-position: 0 0;
+	}
+
+	.icon--comment {
+		width: 64px;
+		height: 64px;
+		background-position: 63.05418719211823% 99.56481481481481%;
+	}
+
+	.icon--facebook {
+		width: 21.23px;
+		height: 42.01px;
+		background-position: 99.44663709972738% 81.59089160704669%;
+	}
+
+	.icon--globe {
+		width: 64px;
+		height: 64px;
+		background-position: 0 99.56481481481481%;
+	}
+
+	.icon--instagram {
+		width: 42.01px;
+		height: 42.01px;
+		background-position: 89.95955375794479% 81.59089160704669%;
+	}
+
+	.icon--mail {
+		width: 64px;
+		height: 48px;
+		background-position: 0 48.00806451612903%;
+	}
+
+	.icon--rain {
+		width: 64px;
+		height: 64px;
+		background-position: 99.70443349753694% 0;
+	}
+
+	.icon--star {
+		width: 64px;
+		height: 64px;
+		background-position: 31.527093596059114% 99.56481481481481%;
+	}
+
+	.icon--twitter {
+		width: 51.78px;
+		height: 42.06px;
+		background-position: 94.04330452560171% 49.25350161613052%;
+	}
+
+	.icon--wifi {
+		width: 60px;
+		height: 64px;
+		background-position: 68.79227053140097% 0;
+	}
+
+	.icon--youtube {
+		width: 34.75px;
+		height: 42px;
+		background-position: 61.31324004305705% 49.23076923076923%;
+	}
