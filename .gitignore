@@ -30,5 +30,3 @@ dwsync.xml
 
 # my own added rules
 temp/
-docs/*
-!docs/.gitkeep 
